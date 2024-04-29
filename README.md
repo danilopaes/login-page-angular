@@ -40,7 +40,7 @@ Here you list all prerequisites necessary for running your project. For example:
 How to clone your project
 
 ```bash
-git clone https://github.com/Fernanda-Kipper/login-page.git
+git clone https://github.com/danilopaes/login-page-angular.git
 ```
 
 <h3>Starting</h3>
